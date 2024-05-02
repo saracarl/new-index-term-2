@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "new index term 2" ] },
+    "summary": { "en": [ "sdf" ] },
+    "items": [
+    ]
+}
